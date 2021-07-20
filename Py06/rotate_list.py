@@ -1,0 +1,1 @@
+rotate_list = lambda l: l[3:]+l[:3]
