@@ -15,6 +15,7 @@ Exercise descriptions and answers taken from the [unit website](https://fpro.fe.
 
 * **Name**: Fundamentos da Programação (Programming Fundamentals)
 * **Date**: Year 1, Semester 1, 2020/21
+* **See also**: [feup-fpro-solitaire](https://github.com/jonny4547/feup-fpro-solitaire)
 * [**More info**](https://sigarra.up.pt/feup/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459463)
 
 ## Disclaimer
